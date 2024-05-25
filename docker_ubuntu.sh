@@ -3,7 +3,7 @@
 # install docker for Ubuntu
 # https://docs.docker.com/engine/install/ubuntu/
 
-# chomd +x docker_ubuntu.sh
+# chmod +x docker_ubuntu.sh
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
